@@ -67,40 +67,34 @@ Credit-Card-Fraud-Detection-ML/
 ## 📊 Exploratory Data Analysis
 
 ### Fraud Distribution
-![Fraud Distribution](./images/fraud_distribution.png)
+![Fraud Distribution](images/fraud_distribution.png)
 
 ### Amount Distribution
-![Amount Distribution](./images/amount_distribution.png)
+![Amount Distribution](images/amount_distribution.png)
 
 ### Time Distribution
-![Time Distribution](./images/time_distribution.png)
+![Time Distribution](images/time_distribution.png)
 
 ---
 
 ## 🤖 Model Performance
 
 ### Confusion Matrix
-![Confusion Matrix](./images/confusion_matrix.png)
+![Confusion Matrix](images/confusion_matrix.png)
 
 ---
 
 ## 📈 Feature Importance
-![Feature Importance](./images/feature_importance.png)
+![Feature Importance](images/feature_importance.png)
 
 ---
 
-## 🖥️ Main Dashboard
-![Dashboard](./images/dashboard.png)
+## 🖥️ Dashboard
 
-## Dashboard View 1
-![Dashboard 1](./images/dashboard1.png)
-
-## Dashboard View 2
-![Dashboard 2](./images/dashboard2.png)
-
-## Dashboard View 3
-![Dashboard 3](./images/dashboard3.png)
-
+![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard1.png)
+![Dashboard](images/dashboard2.png)
+![Dashboard](images/dashboard3.png)
 ---
 
 ## ▶️ How to Run
