@@ -15,9 +15,6 @@ data/
 models/
 *.pkl
 
-# Output files
-outputs/
-*.png
 
 # VS Code
 .vscode/
