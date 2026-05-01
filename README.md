@@ -67,34 +67,35 @@ Credit-Card-Fraud-Detection-ML/
 ## 📊 Exploratory Data Analysis
 
 ### Fraud Distribution
-![Fraud Distribution](images/fraud_distribution.png)
+![Fraud Distribution](https://raw.githubusercontent.com/VaishnavaDevi-R/Credit-Card-Fraud-Detection-ML/main/images/fraud_distribution.png)
 
 ### Amount Distribution
-![Amount Distribution](images/amount_distribution.png)
+![Amount Distribution](https://raw.githubusercontent.com/VaishnavaDevi-R/Credit-Card-Fraud-Detection-ML/main/images/amount_distribution.png)
 
 ### Time Distribution
-![Time Distribution](images/time_distribution.png)
+![Time Distribution](https://raw.githubusercontent.com/VaishnavaDevi-R/Credit-Card-Fraud-Detection-ML/main/images/time_distribution.png)
 
 ---
 
 ## 🤖 Model Performance
 
 ### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](https://raw.githubusercontent.com/VaishnavaDevi-R/Credit-Card-Fraud-Detection-ML/main/images/confusion_matrix.png)
 
 ---
 
 ## 📈 Feature Importance
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](https://raw.githubusercontent.com/VaishnavaDevi-R/Credit-Card-Fraud-Detection-ML/main/images/feature_importance.png)
 
 ---
 
 ## 🖥️ Dashboard
 
-![Dashboard](images/dashboard.png)
-![Dashboard](images/dashboard1.png)
-![Dashboard](images/dashboard2.png)
-![Dashboard](images/dashboard3.png)
+![Dashboard](https://raw.githubusercontent.com/VaishnavaDevi-R/Credit-Card-Fraud-Detection-ML/main/images/dashboard.png)
+![Dashboard 1](https://raw.githubusercontent.com/VaishnavaDevi-R/Credit-Card-Fraud-Detection-ML/main/images/dashboard1.png)
+![Dashboard 2](https://raw.githubusercontent.com/VaishnavaDevi-R/Credit-Card-Fraud-Detection-ML/main/images/dashboard2.png)
+![Dashboard 3](https://raw.githubusercontent.com/VaishnavaDevi-R/Credit-Card-Fraud-Detection-ML/main/images/dashboard3.png)
+
 ---
 
 ## ▶️ How to Run
